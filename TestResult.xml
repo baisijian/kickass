@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="1" result="Passed" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0" engine-version="3.0.5797.27553" clr-version="4.0.30319.42000" start-time="2015-11-27 02:04:32Z" end-time="2015-11-27 02:04:38Z" duration="5.706965">
+  <command-line><![CDATA[nunit3-console  C:\Users\twer\Desktop\testtest\AcceptanceTest\bin\Debug\AcceptanceTest.dll]]></command-line>
+  <test-suite type="Assembly" id="1-1003" name="C:\Users\twer\Desktop\testtest\AcceptanceTest\bin\Debug\AcceptanceTest.dll" fullname="C:\Users\twer\Desktop\testtest\AcceptanceTest\bin\Debug\AcceptanceTest.dll" runstate="Runnable" testcasecount="1" result="Passed" duration="5.676982" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+    <properties>
+      <property name="_PID" value="7420" />
+      <property name="_APPDOMAIN" value="test-domain-" />
+    </properties>
+    <test-suite type="Namespace" id="1-1004" name="AcceptanceTest" fullname="AcceptanceTest" runstate="Runnable" testcasecount="1" result="Passed" duration="5.669114" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+      <test-suite type="Namespace" id="1-1005" name="Features" fullname="AcceptanceTest.Features" runstate="Runnable" testcasecount="1" result="Passed" duration="5.668771" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+        <test-suite type="TestFixture" id="1-1000" name="SitemapXmlTestFeature" fullname="AcceptanceTest.Features.SitemapXmlTestFeature" runstate="Runnable" testcasecount="1" result="Passed" duration="5.668007" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+          <properties>
+            <property name="_DESCRIPTION" value="sitemap xml test" />
+          </properties>
+          <test-suite type="ParameterizedTest" id="1-1001" name="SitemapThatContainsXMLsShouldDisplayCorrectly" fullname="AcceptanceTest.Features.SitemapXmlTestFeature.SitemapThatContainsXMLsShouldDisplayCorrectly" runstate="Runnable" testcasecount="1" result="Passed" duration="5.312652" total="1" passed="0" failed="0" inconclusive="0" skipped="0" asserts="0">
+            <properties>
+              <property name="_DESCRIPTION" value="sitemap that contains XMLs should display correctly" />
+            </properties>
+            <test-case id="1-1002" name="SitemapThatContainsXMLsShouldDisplayCorrectly(&quot;index-main&quot;,&quot;www.casa.it&quot;,&quot;sitemap.aspx&quot;,null)" fullname="AcceptanceTest.Features.SitemapXmlTestFeature.SitemapThatContainsXMLsShouldDisplayCorrectly(&quot;index-main&quot;,&quot;www.casa.it&quot;,&quot;sitemap.aspx&quot;,null)" runstate="Runnable" result="Passed" duration="5.309802" asserts="0" />
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
